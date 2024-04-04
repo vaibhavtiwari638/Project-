@@ -1,0 +1,14 @@
+Here are some research papers specifically focusing on data security in the context of packet transfer:
+
+1. **"Security in Software-Defined Networks: A Survey"** by Haibo Cheng, Yuming Mao, Zhenyu Shen, and Dijiang Huang. This paper discusses security challenges and solutions in Software-Defined Networking (SDN), including packet-level security mechanisms. [Link: IEEE Xplore](https://ieeexplore.ieee.org/document/7738984)
+
+2. **"Security Issues in Mobile Ad Hoc Networks: A Survey"** by Sonal R. Gagare and S. D. Lokhande. This survey paper explores security concerns in mobile ad hoc networks (MANETs), including packet security against attacks like eavesdropping, spoofing, and packet dropping. [Link: IEEE Xplore](https://ieeexplore.ieee.org/document/8937293)
+
+3. **"Survey of Intrusion Detection Systems in Mobile Ad Hoc Networks"** by Jyoti Singh and S. K. Singh. This paper provides an overview of intrusion detection systems (IDS) in mobile ad hoc networks, which aim to detect malicious activities affecting packet-level security. [Link: IEEE Xplore](https://ieeexplore.ieee.org/document/7965142)
+
+4. **"A Survey of Security Mechanisms for the Internet of Things"** by Pedro Antonio Díaz-Gomez, Jesús Balsa, and Enrique de la Hoz. This survey covers security mechanisms for IoT networks, including packet-level encryption, authentication, and access control. [Link: IEEE Xplore](https://ieeexplore.ieee.org/document/8471221)
+
+5. **"A Survey on Security and Privacy in Named Data Networking"** by Ji Li, Zongpeng Li, and Sheng Wang. This paper discusses security and privacy issues in Named Data Networking (NDN), focusing on packet-level security mechanisms such as digital signatures and encryption. [Link: IEEE Xplore](https://ieeexplore.ieee.org/document/8899927)
+
+
+sir we are unable to access them , we are trying to access them or find som other 

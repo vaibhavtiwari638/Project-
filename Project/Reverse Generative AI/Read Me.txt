@@ -1,0 +1,44 @@
+the names of some popular image generative models:
+
+1. **Generative Adversarial Networks (GANs)**:
+   - DCGAN (Deep Convolutional GAN)
+   - StyleGAN (and StyleGAN2)
+   - CycleGAN
+   - ProGAN (Progressive GAN)
+   - BigGAN
+   - SNGAN (Spectral Normalization GAN)
+
+2. **Variational Autoencoders (VAEs)**:
+   - Vanilla VAE
+   - Beta-VAE
+   - Conditional VAE
+   - Adversarial Autoencoder (AAE)
+   - InfoVAE
+   - β-TCVAE (β-Twin Consistency VAE)
+   
+3. **Autoregressive Models**:
+   - PixelCNN
+   - PixelRNN
+   - WaveNet (primarily used for audio generation but can be adapted for images)
+
+4. **Transformer-based Models**:
+   - GPT (Generative Pre-trained Transformer)
+   - DALL-E (for generating images from textual descriptions)
+
+5. **Neuroevolutionary Models**:
+   - NEAT (NeuroEvolution of Augmenting Topologies)
+   - HyperNEAT (Hypercube-based NEAT)
+   - CPPN (Compositional Pattern-Producing Networks)
+
+6. **Other Models**:
+   - DeepDream
+   - Neural Style Transfer (NST)
+   - Deep Belief Networks (DBNs) 
+
+
+In Reverse GEnerative ai , above are some most used algorithms for ai image generation . A lot of work is done in this idea some are in given link and some are in drive 
+
+Link : 
+https://arxiv.org/search/?query=On+the+Detection+of+GAN+Generated+Fake+Images&searchtype=all&source=header
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=reverse+generative+ai&oq=Reverse+
+
