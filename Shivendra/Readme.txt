@@ -1,0 +1,2 @@
+As per your pre-confirmed work area , data collection .
+We'll need a dataset of both real and fake images for training your model. Tools like LabelImg, LabelMe, or VGG Image Annotator can be used for annotating images with labels. Go through with them.
