@@ -1,0 +1,2 @@
+As per your pre-confirmed work area , Model deployment  .
+Decide on how we deploy our model. It could be as a standalone application, integration with a web service, or deployment on cloud platforms like AWS, Azure, or Google Cloud Platform.
