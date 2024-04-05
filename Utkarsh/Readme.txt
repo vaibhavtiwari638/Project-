@@ -1,0 +1,2 @@
+As per your pre-confirmed work area , data preprocessing .
+Your task is to go through with different libraries like OpenCV (Open Source Computer Vision Library) provide tools for image processing tasks such as image filtering, edge detection, and feature extraction.
